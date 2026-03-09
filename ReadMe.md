@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sejal</h1>
+<h1 align="center">Hello, I'm <span style="color: green;">Sejal</span></h1>
 
 <h3 align="center">Full Stack Intern, Krutanic ’25</h3>
 
