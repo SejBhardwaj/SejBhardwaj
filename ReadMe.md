@@ -5,30 +5,7 @@
 <br/>
 
 <p align="center">
-I'm currently pursuing a <b>Bachelor's in Engineering</b> with a strong interest in <b>Machine Learning</b>, 
-<b>Data Analysis</b>, and <b>Web Development</b>.
-</p>
-
-<br/>
-
-<p align="center">
-Proficient in <b>C, Python, and Java</b>, with hands-on experience building 
-<b>ML- and algorithm-driven projects</b>. Actively solving problems on coding platforms 
-and skilled in <b>web development</b> and <b>database management</b>.
-</p>
-
-<br/>
-
-<p align="center">
-Passionate about writing <b>efficient, scalable, and impactful code</b>, 
-and continuously improving my skills in advanced development practices.
-</p>
-
-<br/>
-
-<p align="center">
-<b>Key Skills:</b>  
-Python | MySQL | Database Management | Web Development
+Front-end developer with hands-on experience in modern JavaScript frameworks, responsive design, and UI optimization. Known for writing clean, maintainable code and delivering interfaces that prioritize usability, performance, and scalability. Driven by a product-first mindset, translating complex requirements into intuitive, accessible experiences users actually value.
 </p>
 
 <br/>
