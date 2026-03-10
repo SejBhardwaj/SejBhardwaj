@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm $\color{green}{Sejal}$</h1>
+<h1 align="center">Hello, I'm <span style="color: #00ff00;">Sejal</span></h1>
 
 <h3 align="center">Front-end Developer</h3>
 
