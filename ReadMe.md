@@ -18,33 +18,43 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.typescriptlang.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://tailwindcss.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://react.dev/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://www.mysql.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </a>
