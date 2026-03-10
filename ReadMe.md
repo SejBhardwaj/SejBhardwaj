@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <em style="color: green; font-style: italic;">Sejal</em></h1>
+<h1 align="center">Hello, I'm <span style="color:#32CD32;font-style:italic;">Sejal</span></h1>
 
 <h3 align="center">Front-end Developer</h3>
 
