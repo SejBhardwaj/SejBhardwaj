@@ -13,6 +13,14 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <h2 align="center">Tech Stack</h2>
 
 <br/>
+
+<p align="center">
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming"/>
+</a>
+</p>
+
+<br/>
 <br/>
 
 <h2 align="center">GitHub Stats</h2>
