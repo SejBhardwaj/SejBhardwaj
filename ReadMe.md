@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm $\color{green}{Sejal}$</h1>
 
-<h3 align="center">Full Stack Intern, Krutanic ’25</h3>
+<h3 align="center">Front-end Developer, Krutanic ’25</h3>
 
 <br/>
 
