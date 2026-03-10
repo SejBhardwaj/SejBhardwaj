@@ -1,11 +1,11 @@
 <h1 align="center">Hello, I'm $\color{green}{Sejal}$</h1>
 
-<h3 align="center">Front-end Developer, Krutanic ’25</h3>
+<h3 align="center">Front-end Developer</h3>
 
 <br/>
 
 <p align="center">
-I’m currently pursuing a <b>Bachelor’s in Engineering</b> with a strong interest in <b>Machine Learning</b>, 
+I'm currently pursuing a <b>Bachelor's in Engineering</b> with a strong interest in <b>Machine Learning</b>, 
 <b>Data Analysis</b>, and <b>Web Development</b>.
 </p>
 
