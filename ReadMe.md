@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm $\color{green}{\it{Sejal}}$</h1>
+<h1 align="center">Hello, I'm <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=00FF00&center=true&vCenter=true&width=100&lines=Sejal" alt="Sejal" style="display: inline; vertical-align: middle;"/></h1>
 
 <h3 align="center">Front-end Developer</h3>
 
@@ -10,7 +10,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 
 <br/>
 
-<h2 align="center">$\color{green}{\large\it{My}}$ GitHub Stats</h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=35&lines=My" alt="My" style="display: inline; vertical-align: middle;"/> GitHub Stats</h2>
 
 <br/>
 
@@ -27,7 +27,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 <br/>
 
-<h2 align="center">$\color{green}{\large\it{My}}$ Tech Stack</h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=35&lines=My" alt="My" style="display: inline; vertical-align: middle;"/> Tech Stack</h2>
 
 <br/>
 
