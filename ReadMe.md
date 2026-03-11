@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <span style="position: relative; display: inline-block;"><em style="color: #0066ff;">Seja</em><span style="position: relative; display: inline-block;"><em style="color: #0066ff;">l</em><img src="./kumo_s_ribbon-removebg-preview.png" style="position: absolute; top: 5px; left: 5px; transform: rotate(-15deg); width: 60px; height: auto; z-index: 10;" alt="ribbon"></span></span></h1>
+<h1 align="center">Hello, I'm <em style="color: #0066ff;">Sejal</em></h1>
 
 <h3 align="center">Front-end Developer</h3>
 
