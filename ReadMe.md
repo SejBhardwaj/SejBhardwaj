@@ -10,7 +10,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 
 <br/>
 
-<h2 align="center">*<font color="green">My</font>* GitHub Stats</h2>
+<h2 align="center"><i><font color="green">My</font></i> GitHub Stats</h2>
 
 <br/>
 
@@ -27,7 +27,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 <br/>
 
-<h2 align="center">*<font color="green">My</font>* Tech Stack</h2>
+<h2 align="center"><i><font color="green">My</font></i> Tech Stack</h2>
 
 <br/>
 
