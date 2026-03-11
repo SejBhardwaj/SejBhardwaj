@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <em><font color="green">Sejal</font></em></h1>
+<h1 align="center">Hello, I'm $\color{green}{\mathit{Sejal}}$</h1>
 
 <h3 align="center">Front-end Developer</h3>
 
@@ -10,7 +10,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 
 <br/>
 
-<h2 align="center"><em><font color="green">My</font></em> GitHub Stats</h2>
+<h2 align="center">$\color{green}{\mathit{My}}$ GitHub Stats</h2>
 
 <br/>
 
@@ -27,7 +27,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 <br/>
 
-<h2 align="center"><em><font color="green">My</font></em> Tech Stack</h2>
+<h2 align="center">$\color{green}{\mathit{My}}$ Tech Stack</h2>
 
 <br/>
 
