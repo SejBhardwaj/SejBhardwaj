@@ -15,13 +15,13 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=SejBhardwaj&theme=dark&hide_border=true&background=2F3349" alt="GitHub Streak Stats" loading="lazy" width="500" onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=SejBhardwaj&theme=dark&hide_border=true&background=2F3349'; if(this.onerror) this.onerror=null,this.src='https://streak-stats.demolab.com/?user=SejBhardwaj&theme=highcontrast&hide_border=true'"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SejBhardwaj&theme=dark&hide_border=true&background=0D1117&stroke=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&v=1" alt="GitHub Streak Stats" loading="lazy" width="500"/>
 </p>
 
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true&bg_color=2F3349&text_color=FFFFFF&title_color=58A6FF&count_private=true&include_all_commits=true" alt="Top Languages" loading="lazy"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&count_private=true&include_all_commits=true" alt="Top Languages" loading="lazy" onerror="this.onerror=null;this.src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true'"/>
 </p>
 
 <br/>
