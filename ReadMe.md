@@ -21,7 +21,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&count_private=true&include_all_commits=true&v=1" alt="Top Languages" loading="lazy"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&text_color=FFFFFF&title_color=58A6FF&count_private=true&include_all_commits=true" alt="Top Languages" loading="lazy" onerror="this.onerror=null;this.src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true'"/>
 </p>
 
 <br/>
