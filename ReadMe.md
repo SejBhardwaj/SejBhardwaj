@@ -68,11 +68,11 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=SejBhardwaj&theme=dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=SejBhardwaj&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak Stats" onerror="this.onerror=null;this.src='https://github-readme-streak-stats.herokuapp.com/?user=SejBhardwaj&theme=dark&hide_border=true'"/>
 </p>
 
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true&cache_seconds=86400" alt="Top Languages" onerror="this.onerror=null;this.src='https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true'"/>
 </p>
