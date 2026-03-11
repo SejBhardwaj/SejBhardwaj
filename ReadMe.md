@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <em style="color: #0066ff;">Sejal</em></h1>
+<h1 align="center">Hello, I'm <a href="https://github.com/SejBhardwaj"><em style="color: #0066ff;">Sejal</em></a></h1>
 
 <h3 align="center">Front-end Developer</h3>
 
