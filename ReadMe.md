@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <span style="font-family: 'Times New Roman', serif; font-style: italic; color: green;">Sejal</span></h1>
+<h1 align="center">Hello, I'm ***Sejal***</h1>
 
 <h3 align="center">Front-end Developer</h3>
 
@@ -10,7 +10,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 
 <br/>
 
-<h2 align="center"><span style="font-family: 'Times New Roman', serif; font-style: italic; color: green;">My</span> GitHub Stats</h2>
+<h2 align="center">***My*** GitHub Stats</h2>
 
 <br/>
 
@@ -27,7 +27,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 <br/>
 
-<h2 align="center"><span style="font-family: 'Times New Roman', serif; font-style: italic; color: green;">My</span> Tech Stack</h2>
+<h2 align="center">***My*** Tech Stack</h2>
 
 <br/>
 
