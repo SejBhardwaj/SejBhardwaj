@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <img src="https://img.shields.io/badge/-Sejal-green?style=flat&labelColor=transparent&color=green" alt="Sejal" style="font-style: italic;"/></h1>
+<h1 align="center">Hello, I'm Sejal</h1>
 
 <h3 align="center">Front-end Developer</h3>
 
@@ -10,7 +10,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 
 <br/>
 
-<h2 align="center"><img src="https://img.shields.io/badge/-My-green?style=flat&labelColor=transparent&color=green" alt="My" style="font-style: italic;"/> GitHub Stats</h2>
+<h2 align="center">My GitHub Stats</h2>
 
 <br/>
 
@@ -27,7 +27,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 <br/>
 
-<h2 align="center"><img src="https://img.shields.io/badge/-My-green?style=flat&labelColor=transparent&color=green" alt="My" style="font-style: italic;"/> Tech Stack</h2>
+<h2 align="center">My Tech Stack</h2>
 
 <br/>
 
