@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <em><font color="blue">Sejal</font></em></h1>
+<h1 align="center">Hello, I'm <em><font color="#0066ff">Sejal</font></em></h1>
 
 <h3 align="center">Front-end Developer</h3>
 
@@ -10,7 +10,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 
 <br/>
 
-<h2 align="center"><em><font color="blue">My</font></em> GitHub Stats</h2>
+<h2 align="center"><em><font color="#0066ff">My</font></em> GitHub Stats</h2>
 
 <br/>
 
@@ -27,7 +27,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 <br/>
 
-<h2 align="center"><em><font color="blue">My</font></em> Tech Stack</h2>
+<h2 align="center"><em><font color="#0066ff">My</font></em> Tech Stack</h2>
 
 <br/>
 
