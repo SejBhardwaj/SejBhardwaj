@@ -15,7 +15,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=SejBhardwaj&theme=vue-dark&hide_border=true&background=2D3748&stroke=4A5568&ring=A0AEC0&fire=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A0AEC0&sideLabels=A0AEC0&dates=CBD5E0" alt="GitHub Streak Stats" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=SejBhardwaj&theme=dark&hide_border=true&background=2D3748&stroke=2D3748&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" width="500"/>
 </p>
 
 <br/>
