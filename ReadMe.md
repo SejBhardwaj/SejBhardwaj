@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm <span style="color:green;font-style:italic;display:inline;">Sejal</span><span style="display:none;">$\color{green}{\it{Sejal}}$</span></h1>
+<h1 align="center">Hello, I'm $\color{green}{\it{Sejal}}$</h1>
 
 <h3 align="center">Front-end Developer</h3>
 
@@ -10,7 +10,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 
 <br/>
 
-<h2 align="center"><span style="color:green;font-style:italic;display:inline;">My</span><span style="display:none;">$\color{green}{\large\it{My}}$</span> GitHub Stats</h2>
+<h2 align="center">$\color{green}{\large\it{My}}$ GitHub Stats</h2>
 
 <br/>
 
@@ -27,7 +27,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 <br/>
 
-<h2 align="center"><span style="color:green;font-style:italic;display:inline;">My</span><span style="display:none;">$\color{green}{\large\it{My}}$</span> Tech Stack</h2>
+<h2 align="center">$\color{green}{\large\it{My}}$ Tech Stack</h2>
 
 <br/>
 
