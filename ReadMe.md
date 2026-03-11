@@ -14,6 +14,29 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 
 <br/>
 
+<div align="center">
+<style>
+@keyframes scramble {
+  0% { content: "▓▓▓▓▓▓▓▓▓▓▓"; }
+  10% { content: "█▓▓▓▓▓▓▓▓▓▓"; }
+  20% { content: "██▓▓▓▓▓▓▓▓▓"; }
+  30% { content: "███▓▓▓▓▓▓▓▓"; }
+  40% { content: "████▓▓▓▓▓▓▓"; }
+  50% { content: "█████▓▓▓▓▓▓"; }
+  60% { content: "██████▓▓▓▓▓"; }
+  70% { content: "███████▓▓▓▓"; }
+  80% { content: "████████▓▓▓"; }
+  90% { content: "█████████▓▓"; }
+  100% { content: "██████████▓"; }
+}
+.loading-text::before {
+  content: "Loading Tech Stack...";
+  animation: scramble 2s ease-in-out;
+}
+</style>
+<p class="loading-text" style="font-family: monospace; color: #58A6FF; margin-bottom: 20px;"></p>
+</div>
+
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Programming" width="45" height="45" style="text-decoration: none;"/>
 &nbsp;&nbsp;
