@@ -10,7 +10,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 
 <br/>
 
-<h2 align="center">$\color{green}{\it{My}}$ GitHub Stats</h2>
+<h2 align="center">$\color{green}{\it{My}}$ &nbsp;GitHub Stats</h2>
 
 <br/>
 
