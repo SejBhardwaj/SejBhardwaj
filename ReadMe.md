@@ -15,13 +15,13 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=SejBhardwaj&theme=dark&hide_border=true&background=2D3748&stroke=2D3748&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" width="500"/>
+<img src="https://streak-stats.demolab.com/?user=SejBhardwaj&theme=dark&hide_border=true&background=1e3a8a&stroke=1e3a8a&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats" width="500"/>
 </p>
 
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=vue-dark&hide_border=true&bg_color=2D3748&text_color=FFFFFF&title_color=A0AEC0&border_color=4A5568" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=true&bg_color=1e3a8a&text_color=FFFFFF&title_color=FFFFFF&border_color=1e3a8a" alt="Top Languages"/>
 </p>
 
 <br/>
