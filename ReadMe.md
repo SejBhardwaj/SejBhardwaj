@@ -27,7 +27,7 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 <br/>
 
-<h2 align="center">Tech Stack</h2>
+<h2 align="center">$\color{green}{\large\it{My}}$ &nbsp;Tech Stack</h2>
 
 <br/>
 
