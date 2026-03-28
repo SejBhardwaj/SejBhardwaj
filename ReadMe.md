@@ -15,13 +15,13 @@ Front-end developer with hands-on experience in modern JavaScript frameworks, re
 <br/>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=SejBhardwaj&theme=dark&hide_border=false&background=0f172a&stroke=9CA3AF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=9CA3AF&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak Stats" width="500"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=SejBhardwaj&theme=dark&hide_border=false&background=0f172a&stroke=9CA3AF&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=9CA3AF&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak Stats" width="500"/>
 </p>
 
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=false&bg_color=0f172a&text_color=FFFFFF&title_color=FFFFFF&border_color=9CA3AF" alt="Top Languages" onerror="this.onerror=null; this.src='https://github-readme-stats.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=false&bg_color=0f172a&text_color=FFFFFF&title_color=FFFFFF&border_color=9CA3AF'"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SejBhardwaj&layout=compact&theme=dark&hide_border=false&bg_color=0f172a&text_color=FFFFFF&title_color=FFFFFF&border_color=9CA3AF&langs_count=8" alt="Top Languages"/>
 </p>
 
 <br/>
